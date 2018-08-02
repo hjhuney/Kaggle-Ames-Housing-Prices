@@ -12,3 +12,6 @@ To Do
 * Consider feature engineering some of the categorical variables
 * Hyperparameter tuning
 * Code for Test results / csv output
+
+Observations
+* R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
