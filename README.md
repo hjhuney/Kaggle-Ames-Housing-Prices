@@ -8,7 +8,7 @@ Progress
 * transformed many variables
 
 To Do
-* Still need to transform 19 categorical variables
+* Still need to transform 14 categorical variables
 * Consider feature engineering some of the categorical variables
 * Hyperparameter tuning
 * Code for Test results / csv output
