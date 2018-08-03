@@ -7,11 +7,13 @@ Progress
 * Built out models
 * transformed many variables
 * conducted hyperparameter tuning
+* researched and transformed all categorical variables
 
 To Do
-* Still need to transform 6 categorical variables
+* Set up proxy for neighborhood feature
 * Consider feature engineering some of the categorical variables
 * Code for Test results / csv output
+* More exploration to figure out which features having most impact on regression
 
 Dropped Features
 * RoofMat1
