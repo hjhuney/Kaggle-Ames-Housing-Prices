@@ -13,5 +13,9 @@ To Do
 * Hyperparameter tuning
 * Code for Test results / csv output
 
+Dropped Features
+* RoofMat1
+* MiscFeature transformed to only account for 'shed'; all other items too small of a sample
+
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
