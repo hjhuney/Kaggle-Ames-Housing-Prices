@@ -6,11 +6,11 @@ Progress
 * Built dataframes
 * Built out models
 * transformed many variables
+* conducted hyperparameter tuning
 
 To Do
-* Still need to transform 14 categorical variables
+* Still need to transform 13 categorical variables
 * Consider feature engineering some of the categorical variables
-* Hyperparameter tuning
 * Code for Test results / csv output
 
 Dropped Features
@@ -18,7 +18,7 @@ Dropped Features
 * MiscFeature transformed to only account for 'shed'; all other items too small of a sample
 
 Issues
-* RMSLE not available in cross-val, making it more difficult to get a good read on scoring; using R2 instead
+* None right now
 
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
