@@ -18,7 +18,7 @@ Dropped Features
 * MiscFeature transformed to only account for 'shed'; all other items too small of a sample
 
 Issues
-* None right now
+* Some null values in test data where not in training data
 
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
