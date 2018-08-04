@@ -8,6 +8,8 @@ Progress
 * transformed many variables
 * conducted hyperparameter tuning
 * researched and transformed all categorical variables
+* made first official submission to Kaggle
+* top 50% in official results
 
 To Do
 * Set up proxy for neighborhood feature
@@ -25,3 +27,6 @@ Issues
 
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
+
+Submissions
+* 001: xgboost, score=0.13781, minimal feature engineering, top 50%
