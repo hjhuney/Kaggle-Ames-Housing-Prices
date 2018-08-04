@@ -16,14 +16,13 @@ To Do
 * Consider feature engineering some of the categorical variables
 * Code for Test results / csv output
 * More exploration to figure out which features having most impact on regression
-* Deal with null values in test data
 
 Dropped Features
 * RoofMat1
 * MiscFeature transformed to only account for 'shed'; all other items too small of a sample
 
 Issues
-* Some null values in test data were not in training data
+* None
 
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
