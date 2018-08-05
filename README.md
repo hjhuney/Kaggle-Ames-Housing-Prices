@@ -26,6 +26,9 @@ Issues
 
 Observations
 * R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
+* Adaboost with XGBoost embedded seems to be the best model thus far
+
 
 Submissions
 * 001: xgboost, score=0.13781, minimal feature engineering, top 50%
+* 004: adaboost(xgboost), score = .1295
