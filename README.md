@@ -1,34 +1,12 @@
 # Kaggle-Ames-Housing-Prices
 
-Google colab: https://colab.research.google.com/drive/1DStViEBkijHtIak9o3w30zTd5BViG_Rf
+The Ames housing dataset is one of the most popular ones for regression on Kaggle. You can view the project overview here. 
 
-Progress
-* Built dataframes
-* Built out models
-* transformed many variables
-* conducted hyperparameter tuning
-* researched and transformed all categorical variables
-* made first official submission to Kaggle
-* top 50% in official results
+[Kaggle: House Prices Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-To Do
-* Set up proxy for neighborhood feature
-* Consider feature engineering some of the categorical variables
-* Code for Test results / csv output
-* More exploration to figure out which features having most impact on regression
+The project is scored using root mean squared logarithmic error ("RMSLE") and the goal is to take a set of training data and predict housing prices in the test data. I succeeded in attaining a top 17% score and utilized data exploration, feature engineering, scaling, model building, hyperparameter tuning, cross-validation, and ensemble construction. 
 
-Dropped Features
-* RoofMat1
-* MiscFeature transformed to only account for 'shed'; all other items too small of a sample
+You can see my output at the link below. 
 
-Issues
-* None
+[Jake Huneycutt - Ames Housing Notebook](https://github.com/hjhuney/Kaggle-Ames-Housing-Prices/blob/master/kaggle_ames_housing_v3.ipynb)
 
-Observations
-* R2 and RMSLE scores are improving as I convert more categorical variables to integer values based on mean pricing data.
-* Adaboost with XGBoost embedded seems to be the best model thus far
-
-
-Submissions
-* 001: xgboost, score=0.13781, minimal feature engineering, top 50%
-* 004: adaboost(xgboost), score = .1295
