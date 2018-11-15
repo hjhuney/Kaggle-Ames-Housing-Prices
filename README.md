@@ -1,6 +1,8 @@
 # Kaggle-Ames-Housing-Prices
 
-The Ames housing dataset is one of the most popular ones for regression on Kaggle. You can view the project overview here. 
+The Ames housing dataset is one of the most popular ones for regression on Kaggle. 
+
+The project overview is available at the link below:
 
 [Kaggle: House Prices Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
