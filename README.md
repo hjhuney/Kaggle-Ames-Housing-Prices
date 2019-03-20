@@ -10,5 +10,5 @@ The project is scored using root mean squared logarithmic error ("RMSLE") and th
 
 You can see my output at the link below. 
 
-[Ames Housing Notebook](https://github.com/hjhuney/Kaggle-Ames-Housing-Prices/blob/master/kaggle_ames_housing_v3.ipynb)
+[Ames Housing Notebook](https://nbviewer.jupyter.org/github/hjhuney/Kaggle-Ames-Housing-Prices/blob/master/kaggle_ames_housing_v3.ipynb)
 
